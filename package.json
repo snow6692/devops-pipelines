@@ -4,8 +4,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "dev":"bun --hot index.ts",
-    "test": "bun --hot test.ts"
+    "dev": "bun --hot index.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
